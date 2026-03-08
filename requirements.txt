@@ -1,1 +1,5 @@
-librosa, numpy, matplotlib, pandas, scipy
+librosa
+numpy
+matplotlib
+pandas
+scipy
