@@ -26,3 +26,4 @@ Experimental analysis of Raag Nat Bhairav using pYIN and log-frequency Cent-base
 > **Research Note:** The significant deviation in 'Komal Dhaivat' (35 cents) confirms the usage of specific microtonal intonation characteristic of the Nat Bhairav tradition, which deviates from standard Western Equal Temperament.
 
 "This repository is part of ongoing research on Computational Linguistics and IKS. All rights to the methodology are reserved by the author"
+Author: vishal.publicpolicy@gmail.com
